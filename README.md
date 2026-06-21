@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/ai.svg" alt="Agent Surf" width="480">
+  <img src="docs/assets/ai-white.png" alt="Agent Surf" width="280">
 </p>
 
 <p align="center">

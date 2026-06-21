@@ -1,0 +1,32 @@
+# Agent Surf
+
+> Give your AI agent eyes to see the entire internet. A unified CLI tool that lets AI agents read and search across 12 US-focused platforms — Twitter/X, Reddit, YouTube, GitHub, Hacker News, Product Hunt, StockTwits + Yahoo Finance, podcasts, LinkedIn, RSS, and any web page. One install, mostly free, no API fees.
+
+## Quick Start
+
+- [Installation Guide](https://github.com/rijuld/agent-surf/blob/main/docs/install.md): Step-by-step setup instructions for AI agents
+- [README (English)](https://github.com/rijuld/agent-surf/blob/main/README.md): Full documentation
+
+## Core Commands
+
+- [CLI Usage](https://github.com/rijuld/agent-surf/blob/main/docs/install.md): `agent-surf read <url>` reads any URL, `agent-surf search-twitter "query"` searches Twitter, etc.
+
+## Key Features
+
+- Read any URL: tweets, Reddit posts, YouTube videos (transcripts), GitHub repos, articles, Hacker News threads, podcast transcripts, RSS feeds
+- Search across platforms: Twitter/X, Reddit, GitHub, YouTube, Hacker News, Product Hunt, LinkedIn, Web (via Exa)
+- Stock data: real-time quotes (Yahoo Finance) + community sentiment (StockTwits), no API key
+- Self-diagnosis: `agent-surf doctor` checks what works and what needs setup
+- Auto-installs dependencies: `agent-surf install --env=auto`
+- Cookie-based auth for the one platform that requires it (Twitter/X)
+- Proxy support for platforms that block server IPs (Reddit, Twitter)
+- Zero API fees: all backends are free and open-source (twitter-cli, yt-dlp, Jina Reader, etc.)
+
+## Troubleshooting
+
+- [Troubleshooting Guide](https://github.com/rijuld/agent-surf/blob/main/docs/troubleshooting.md): Common issues and solutions
+
+## Optional
+
+- [SKILL.md](https://github.com/rijuld/agent-surf/blob/main/agent_surf/skill/SKILL.md): Integration guide for AI agent frameworks (OpenClaw, Claude Code, etc.)
+- [PyPI Package](https://pypi.org/project/agent-surf/): `pip install agent-surf`

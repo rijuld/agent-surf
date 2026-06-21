@@ -328,8 +328,8 @@ Mostly free and open source. All backends (twitter-cli, rdt-cli, yt-dlp, Jina Re
 
 ## Contact
 
-- 📧 **Email:** pnt01@foxmail.com
-- 🐦 **Twitter/X:** [@Neo_Reidlab](https://x.com/Neo_Reidlab)
+- 📧 **Email:** errijuldahiya@gmail.com
+- 🐦 **Twitter/X:** [@rijul_dahiya](https://x.com/rijul_dahiya)
 
 For bug reports and feature requests, please use [GitHub Issues](https://github.com/rijuld/agent-surf/issues) — easier to track.
 

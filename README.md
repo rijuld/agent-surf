@@ -20,7 +20,7 @@
   <a href="#quick-start">Quick Start</a> · <a href="#supported-platforms">Platforms</a> · <a href="#design-philosophy">Philosophy</a>
 </p>
 
-> **No token or crypto affiliation:** Agent Surf has no official token, coin, investment product, fee-claim program, wallet connection, or Solana/Pump.fun project. Any crypto project using the Agent Surf name, GitHub URL, or author identity is not affiliated with this repository. Do not connect a wallet or claim fees based on messages, posts, or links that say otherwise.
+> **Credit:** Agent Surf is an extension of [Agent Reach](https://github.com/Panniantong/Agent-Reach) (MIT). It keeps Agent Reach's installer + doctor design and adds US-focused platform channels. The original copyright notice is preserved in [LICENSE](LICENSE).
 
 ---
 
